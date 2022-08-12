@@ -1,0 +1,45 @@
+{
+  "name": "blog-with-database-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bl": "^2.2.1",
+    "body-parser": "^1.20.0",
+    "bson": "^1.1.6",
+    "core-util-is": "^1.0.3",
+    "denque": "^1.5.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "isarray": "^1.0.0",
+    "kareem": "^2.3.2",
+    "lodash": "^4.17.21",
+    "memory-pager": "^1.5.0",
+    "mime": "^1.4.1",
+    "mongodb": "^3.7.3",
+    "mongoose": "^6.5.1",
+    "mpath": "^0.8.4",
+    "mquery": "^3.2.5",
+    "optional-require": "^1.0.3",
+    "process-nextick-args": "^2.0.1",
+    "readable-stream": "^2.3.7",
+    "regexp-clone": "^1.0.0",
+    "require-at": "^1.0.6",
+    "saslprep": "^1.0.3",
+    "sift": "^13.5.2",
+    "sliced": "^1.0.1",
+    "sparse-bitfield": "^3.0.3",
+    "string_decoder": "^1.1.1",
+    "util-deprecate": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "16.16.0"
+
+  }
+
+}
